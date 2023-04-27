@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "com.example.music2.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.music2.app-main-7:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.music2.app-merged_res-5:/xml_backup_rules.xml.flat",
+        "source": "com.example.music2.app-main-7:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.music2.app-merged_res-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.music2.app-main-7:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.music2.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "com.example.music2.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.music2.app-merged_res-5:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.music2.app-main-7:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.music2.app-merged_res-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.music2.app-main-7:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.music2.app-merged_res-5:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.music2.app-main-7:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.music2.app-merged_res-5:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.music2.app-main-7:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.music2.app-merged_res-5:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.music2.app-main-7:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.music2.app-merged_res-5:/layout_audio_image.xml.flat",
+        "source": "com.example.music2.app-main-7:/layout/audio_image.xml"
+    },
+    {
+        "merged": "com.example.music2.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.music2.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.music2.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.music2.app-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.music2.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.music2.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.music2.app-merged_res-5:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.music2.app-main-7:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.music2.app-merged_res-5:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.music2.app-main-7:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.music2.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.music2.app-main-7:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.music2.app-merged_res-5:/raw_hare.mp3.flat",
+        "source": "com.example.music2.app-main-7:/raw/hare.mp3"
+    },
+    {
+        "merged": "com.example.music2.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.music2.app-main-7:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.music2.app-merged_res-5:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.music2.app-main-7:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.music2.app-merged_res-5:/drawable-v24_img_schoolbell.png.flat",
+        "source": "com.example.music2.app-main-7:/drawable-v24/img_schoolbell.png"
+    },
+    {
+        "merged": "com.example.music2.app-merged_res-5:/raw_elephant.mp3.flat",
+        "source": "com.example.music2.app-main-7:/raw/elephant.mp3"
+    },
+    {
+        "merged": "com.example.music2.app-merged_res-5:/raw_schoolbell.mp3.flat",
+        "source": "com.example.music2.app-main-7:/raw/schoolbell.mp3"
+    },
+    {
+        "merged": "com.example.music2.app-merged_res-5:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.music2.app-main-7:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.music2.app-merged_res-5:/drawable-v24_img_hare.png.flat",
+        "source": "com.example.music2.app-main-7:/drawable-v24/img_hare.png"
+    },
+    {
+        "merged": "com.example.music2.app-merged_res-5:/drawable-v24_img_elephant.png.flat",
+        "source": "com.example.music2.app-main-7:/drawable-v24/img_elephant.png"
+    }
+]

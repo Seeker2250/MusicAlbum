@@ -18,7 +18,7 @@
         android:textStyle="bold"
         android:gravity="center"
         android:background="#00FFFF"
-        android:text="TextView" />
+        android:text="@string/title1" />
 
     <ImageView
         android:id="@+id/song_image"
